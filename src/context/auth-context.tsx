@@ -1,7 +1,7 @@
 import {
   useContextProvider,
   createContextId,
-  Signal,
+  type Signal,
   component$,
   useStore,
   Slot,
